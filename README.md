@@ -26,8 +26,11 @@ It wrote the code, ran away, and now the game is unplayable.
 ## 📝 Document Your Experience
 
 - [ ] Describe the game's purpose.
-- [ ] Detail which bugs you found.
-- [ ] Explain what fixes you applied.
+-  The game is about guessing a secret number using hints like higher or lower.
+- [ ] Detail which bugs you found.: 
+-   The higher/lower hints were backwards, the New Game button did not restart the game, it allowed numbers outside 1–100, and the difficulty levels were wrong.
+- [ ] Explain what fixes you applied.: 
+-   I fixed the hint logic, made the New Game button restart the game, limited the input to 1–100, and corrected the difficulty levels.
 
 ## 📸 Demo
 
