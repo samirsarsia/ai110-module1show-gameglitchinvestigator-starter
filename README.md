@@ -32,6 +32,10 @@ It wrote the code, ran away, and now the game is unplayable.
 ## 📸 Demo
 
 - [ ] [Insert a screenshot of your fixed, winning game here]
+      <img width="1436" height="964" alt="Screenshot 2026-03-12 at 7 08 33 PM" src="https://github.com/user-attachments/assets/ec5cf437-d181-4c68-b0e8-3531337b92d3" />
+
+
+
 
 ## 🚀 Stretch Features
 
